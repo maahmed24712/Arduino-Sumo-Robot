@@ -15,11 +15,11 @@ To use this code, you will need the following hardware components:
 
 The code utilizes specific pins on the Arduino board for connecting the components. The following pin configuration is used:
 
-#### Motor A (H-Bridge L298N)
+##### Motor A (H-Bridge L298N)
 - IN1: 8
 - IN2: 7
 - ENA: 9
-#### Motor B (H-Bridge L298N)
+##### Motor B (H-Bridge L298N)
 - IN3: 5
 - IN4: 4
 - ENB: 3
